@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class SolarpvConfig(AppConfig):
+class ExampleConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'solarpv'
+    name = 'example'
